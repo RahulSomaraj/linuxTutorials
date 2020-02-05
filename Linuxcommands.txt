@@ -1,0 +1,11 @@
+Change Hostname 
+
+
+Edit the /etc/hosts file.
+
+Open the /etc/hosts file and change the old hostname to the new one.
+
+Edit the /etc/hostname file.
+
+Open the /etc/hostname file and change the old hostname to the new one.
+
